@@ -37,8 +37,8 @@ return [
 
     'twitter' => [
         'client_id' => '',
-        'client_secret' => ''
-        'redirect' => 'http://127.0.0.1:8000/login/twitter/callback'
+        'client_secret' => '',
+        'redirect' => 'http://127.0.0.1:8000/login/twitter/callback',
     ],
 
 ];
